@@ -1,0 +1,59 @@
+.title {
+  background: linear-gradient(
+    90deg,
+    #459cd6 -0.01%,
+    #4898d3 21.26%,
+    #528bca 43.3%,
+    #6377bc 65.71%,
+    #7b5aa8 88.2%,
+    #89489c 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.check-icon {
+  background: linear-gradient(317.65deg, #67cfe9 -32.17%, #5eea9f 107.95%);
+}
+
+.linear-one {
+  background: linear-gradient(90deg, #2e034b 0%, #002182 50%, #2e034b 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.linear-two {
+  background: linear-gradient(90deg, #ff225e 0%, #9d2ac6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.linear-three {
+  background: linear-gradient(317.65deg, #67cfe9 -32.17%, #5eea9f 107.95%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.linear-four {
+  background: linear-gradient(90deg, #e280da 0%, #6694ef 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.linear-five {
+  background: linear-gradient(90deg, #a34d9f 0%, #275fd0 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.black-friday {
+  background-size: cover;
+  background-position: center;
+  background-image: url("assets/ads.png");
+}
